@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niva Shrestha
-- 👀 I’m interested in coding, software design, computer network + security, web designing and graphic designing
+- 👀 I’m interested in coding, software design, computer network + security, DBMS, web designing and graphic designing
 - 🌱 I’m currently learning to make functional websites
 - 💞️ I’m looking to collaborate on any programming projects to enchance my skills
 - 📫 Reach me via email: kneeva.22@gmail.com or Niva.Shrestha@usm.edu
